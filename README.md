@@ -1,5 +1,8 @@
 # Kinesis Advantage 360 Pro ZMK Config
 
+## list of big changes
+- I added autoshift behavior from [this link](https://github.com/nickcoutsos/keymap-editor/wiki/Autoshift-using-ZMK-behaviors#alternative-to-preprocessor-macros)
+
 ## Modifying the keymap
 
 Note by Vinay, use the better keyboard editor at: https://nickcoutsos.github.io/keymap-editor/
