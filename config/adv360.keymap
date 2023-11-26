@@ -74,7 +74,7 @@
             bindings = <
 &as EQUAL   &as N1     &as N2    &as N3    &as N4     &as N5  &tog 1                                                    &mo 3      &as N6  &as N7  &as N8     &as N9    &as N0    &as MINUS
 &kp TAB     &as Q      &as W     &as E     &as R      &as T   &none                                                     &none      &as Y   &as U   &as I      &as O     &as P     &as BSLH
-&kp ESCAPE  &as A      &as S     &as D     &as F      &as G   &none     &kp LG(V)  &kp LG(X)      &kp LGUI   &kp RCTRL  &none      &as H   &as J   &as K      &as L     &as SEMI  &kp SQT
+&kp ESCAPE  &as A      &as S     &as D     &as F      &as G   &none     &kp LG(V)  &kp LG(X)      &kp LGUI   &kp RCTRL  &none      &as H   &as J   &as K      &as L     &as SEMI  &as SQT
 &kp LSHFT   &as Z      &as X     &as C     &as V      &as B                        &kp LG(F)      &kp PG_UP                        &as N   &as M   &as COMMA  &as DOT   &as FSLH  &kp RSHFT
 &mo 2       &as GRAVE  &kp CAPS  &kp LEFT  &kp RIGHT          &kp BSPC  &kp DEL    &kp END        &kp PG_DN  &kp ENTER  &kp SPACE          &kp UP  &kp DOWN   &as LBKT  &as RBKT  &mo 2
             >;
